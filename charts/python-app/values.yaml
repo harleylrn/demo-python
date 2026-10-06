@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: harleylrn/python-app
   pullPolicy: IfNotPresent
-  tag: e31cef
+  tag: dba70a
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
